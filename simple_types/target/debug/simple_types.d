@@ -1,0 +1,1 @@
+/Users/baejiwang/Documents/GitHub/Udemy_Ultimate_Rust/simple_types/target/debug/simple_types: /Users/baejiwang/Documents/GitHub/Udemy_Ultimate_Rust/simple_types/src/lib.rs /Users/baejiwang/Documents/GitHub/Udemy_Ultimate_Rust/simple_types/src/main.rs
